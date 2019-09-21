@@ -1,0 +1,20 @@
+{
+  "name": "payme.js",
+  "version": "1.0.0",
+  "description": "A node implementation of a Payment Service Provider (PSP)",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://metadeta96@github.com/metadeta96/payme.js.git"
+  },
+  "keywords": [],
+  "author": "Fernando R. Setti Jr.",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/metadeta96/payme.js/issues"
+  },
+  "homepage": "https://github.com/metadeta96/payme.js#readme"
+}
