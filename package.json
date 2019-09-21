@@ -16,5 +16,8 @@
   "bugs": {
     "url": "https://github.com/metadeta96/payme.js/issues"
   },
-  "homepage": "https://github.com/metadeta96/payme.js#readme"
+  "homepage": "https://github.com/metadeta96/payme.js#readme",
+  "dependencies": {
+    "express": "^4.17.1"
+  }
 }
